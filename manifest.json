@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "YouTube Quality Switcher",
-    "version": "1.0",
+    "version": "0.1.0",
     "description": "Adds a row of quality buttons below the YouTube player to change video quality with one click.",
     "content_scripts": [
       {
